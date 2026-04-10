@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply font-sans bg-gray-100 text-gray-800 flex flex-col min-h-screen;
+  }
+
+  main {
+    @apply flex-1;
+  }
+}
