@@ -124,12 +124,4 @@ npm run preview
 
 ---
 
-##  Contato da Equipe
-
-Para dúvidas ou sugestões sobre o projeto, entre em contato:
-
-- **Gustavo de Jesus Silva** — [gustavo.jesus@fiap.com.br](mailto:gustavo.jesus@fiap.com.br)
-- **Gustavo Rodrigues Siciliano** — [gustavo.siciliano@fiap.com.br](mailto:gustavo.siciliano@fiap.com.br)
-- **Samuel Keniti Kina de Lima** — [samuel.keniti@fiap.com.br](mailto:samuel.keniti@fiap.com.br)
-
 Projeto desenvolvido em parceria com a **FIAP** e a ONG **Turma do Bem**.
