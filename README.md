@@ -10,7 +10,7 @@
 
 | Recurso | Link |
 |---------|------|
-|  Repositório GitHub | *[Insira o link do repositório aqui]* |
+|  Repositório GitHub | *(https://github.com/xGuga13x/Sprint3_Front-End.git)* |
 |  Vídeo de apresentação (YouTube) | *[Insira o link do YouTube aqui]* |
 
 ---
