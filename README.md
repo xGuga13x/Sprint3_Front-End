@@ -84,8 +84,7 @@ sprint3/
 
 ```bash
 # 1. Clone o repositório
-git clone <link-do-repositorio>
-cd sprint3
+git clone https://github.com/xGuga13x/Sprint3_Front-End.git
 
 # 2. Instale as dependências
 npm install
@@ -95,13 +94,6 @@ npm run dev
 
 # 4. Acesse no navegador
 # http://localhost:5173
-```
-
-### Build para produção
-
-```bash
-npm run build
-npm run preview
 ```
 
 ---
