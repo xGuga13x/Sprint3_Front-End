@@ -80,10 +80,6 @@ sprint3/
 
 ##  Como Executar Localmente
 
-### Pré-requisitos
-
-- Node.js 18 ou superior — [nodejs.org](https://nodejs.org)
-
 ### Passo a passo
 
 ```bash
